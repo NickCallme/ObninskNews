@@ -172,7 +172,7 @@
 		C673C82D29793E3E001B37CB = {
 			isa = PBXGroup;
 			children = (
-				C673C83829793E3E001B37CB /* ExampleObnins */,
+				C673C83829793E3E001B37CB /* ExampleObninsk */,
 				C673C83729793E3E001B37CB /* Products */,
 				25B84D4CF88218E45CA13D32 /* Pods */,
 				8EDF84547B5B0F0870BF088C /* Frameworks */,
@@ -187,7 +187,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		C673C83829793E3E001B37CB /* ExampleObnins */ = {
+		C673C83829793E3E001B37CB /* ExampleObninsk */ = {
 			isa = PBXGroup;
 			children = (
 				C673C85F29794835001B37CB /* Application */,
@@ -198,7 +198,7 @@
 				C673C85D2979481F001B37CB /* Presentation */,
 				C673C86029794849001B37CB /* Resources */,
 			);
-			path = ExampleObnins;
+			path = ExampleObninsk;
 			sourceTree = "<group>";
 		};
 		C673C84E29793E81001B37CB /* AboutUs */ = {
@@ -680,7 +680,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 4NL84PCT32;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = ExampleObnins/Info.plist;
+				INFOPLIST_FILE = ExampleObninsk/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = "Обнинск News";
 				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.news";
 				INFOPLIST_KEY_NSCameraUsageDescription = "Разрешите использовать фото";
@@ -717,7 +717,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 4NL84PCT32;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = ExampleObnins/Info.plist;
+				INFOPLIST_FILE = ExampleObninsk/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = "Обнинск News";
 				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.news";
 				INFOPLIST_KEY_NSCameraUsageDescription = "Разрешите использовать фото";
