@@ -1,0 +1,6 @@
+framework module Pods_ExampleObninsk {
+  umbrella header "Pods-ExampleObninsk-umbrella.h"
+
+  export *
+  module * { export * }
+}
